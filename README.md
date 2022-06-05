@@ -1,5 +1,7 @@
 ## Lab 6
 
+[Home](https://liv-edi.github.io/cit281/)
+
 In this lab we joined GitHub and worked through the Introduction to GitHub course, created a lab file, created and tested a Book class, created and tested a Library class, added books to the librarym, added ISBN, and a delete book method.
 
 Technologies used for this lab:
